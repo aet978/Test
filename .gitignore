@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+test_proj/Debug/test_proj.exe
+test_proj/Debug/test_proj.ilk
+test_proj/Debug/test_proj.pdb
+test_proj/test_proj.VC.VC.opendb
+test_proj/test_proj/Debug/sum.obj
+test_proj/test_proj/Debug/test_proj.log
+test_proj/test_proj/Debug/test_proj.tlog/link.read.1.tlog
+test_proj/test_proj/Debug/vc140.idb
+test_proj/test_proj/Debug/vc140.pdb
